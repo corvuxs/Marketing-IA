@@ -11,12 +11,12 @@
 | Category | Weight | Score | Weighted |
 |---|---|---|---|
 | Content & Messaging | 25% | 44/100 | 11.00 |
-| Conversion Optimization | 20% | 34/100 | 6.80 |
+| Conversion Optimization | 20% | 31/100 | 6.20 |
 | SEO & Discoverability | 20% | 41/100 | 8.20 |
 | Competitive Positioning | 15% | 34/100 | 5.10 |
 | Brand & Trust | 10% | 28/100 | 2.80 |
 | Growth & Strategy | 10% | 42/100 | 4.20 |
-| **COMPOSITE** | **100%** | — | **38.10** |
+| **COMPOSITE** | **100%** | — | **37.50** |
 
 ---
 
@@ -93,7 +93,7 @@ Implementing the prioritized recommendations below could double conversion rate 
 > **Current:** No visible display of IICRC, BBB A+, years in business, or license numbers
 >
 > **Add directly below hero:**
-> `[IICRC Certified] [BBB Accredited — A+] [8 Years Serving South Florida] [Licensed & Insured — CGC1538716] [Free Inspection] [90-Min Response Guarantee]`
+> `[IICRC Certified] [CEHI Certified] [BBB Accredited — A+] [8 Years Serving South Florida] [Licensed & Insured — CGC1538716] [Free Inspection] [90-Min Response Guarantee]`
 
 ---
 
@@ -120,19 +120,26 @@ Implementing the prioritized recommendations below could double conversion rate 
 
 ## 2. Conversion Optimization (CRO) Audit
 
-**Score: 34 / 100**
+**Score: 31 / 100**
+
+> **Key data confirmed by agent (sourced from third-party listings — not visible on site itself):**
+> - Phone: **(786) 218-2108** — absent from header, hero, and all service pages
+> - Address: **11906 Miramar Pkwy, Miramar, FL 33025**
+> - Certifications held: **IICRC, CEHI, Green Mold Remediation, Certified Mold Hygienist** — none displayed on site
+> - BBB: **A+ accredited since August 5, 2020** — not displayed on site
+> - Personal Hotmail address visible as a contact email (brand trust issue)
 
 ### Dimension Breakdown
 
 | Dimension | Score | Notes |
 |---|---|---|
-| CTA Clarity, Placement & Strength | 38/100 | Multiple competing CTAs with no single dominant emergency action; no sticky CTA bar |
-| Lead Capture Forms | 32/100 | 5-field form buried on /contact-us/; no inline forms on service pages |
-| Phone Number Visibility & Click-to-Call | 20/100 | Phone (786-218-2108) known but not persistently anchored across all pages |
-| Social Proof | 18/100 | BBB A+ exists but not displayed; no testimonials, no ratings, no project count |
-| Urgency & Emergency Messaging | 30/100 | 90-min claim on homepage only; hours contradict 24/7 promise sitewide |
-| Mobile Conversion Experience | 40/100 | Responsive design confirmed; no sticky phone button, no tap-to-call in hero |
-| Trust Signals at Decision Points | 22/100 | No licensing numbers, no insurance confirmation, no certification badges on service pages |
+| CTA Clarity, Placement & Strength | 28/100 | Generic "Explore Restoration" / "Get Help Now" CTAs; no persistent phone CTA above the fold |
+| Lead Capture Forms | 30/100 | Form present on contact page but too many steps for a crisis visitor; no inline forms on service pages |
+| Phone Number Visibility & Click-to-Call | 12/100 | Phone (786-218-2108) not in header, hero, or service pages; no click-to-call link detected |
+| Social Proof | 25/100 | BBB A+ exists but not displayed; IICRC/CEHI certs not visible; one vague testimonial; no review count shown |
+| Urgency & Emergency Messaging | 35/100 | 90-min claim and 24/7 language present but not paired with an immediate action mechanism |
+| Mobile Conversion Experience | 30/100 | Responsive design present but no sticky click-to-call button; mobile users cannot call in one tap |
+| Trust Signals at Decision Points | 22/100 | 4 certifications, BBB badge, and years of experience absent from service and landing pages |
 | Follow-up / Retargeting Mechanisms | 15/100 | No live chat, no exit-intent popup, no confirmed retargeting pixel, no SMS opt-in |
 
 ### Key Findings
@@ -162,10 +169,11 @@ Implementing the prioritized recommendations below could double conversion rate 
 
 **Fix 3 — Surface Social Proof on Every High-Intent Page (P1)**
 - Embed Google Reviews widget (Elfsight or similar) on homepage, service pages, and contact page.
-- Add BBB Accredited Business seal as clickable badge in footer and contact page.
+- Add BBB Accredited Business seal (A+ since Aug 2020) as clickable badge in footer and contact page.
 - Add testimonials section (3–5 real customer quotes with name, city, service type).
 - Add a project counter: "500+ Properties Restored" or equivalent.
-- Display IICRC and Florida contractor license numbers on About page and footer.
+- Display all 4 certifications (IICRC, CEHI, Green Mold Remediation, Certified Mold Hygienist) + Florida contractor license numbers (CGC1538716, CFC1433790) on every service page and footer.
+- Replace personal Hotmail contact email with a branded `@fullprorestoration.com` address.
 
 **Fix 4 — Add Inline Emergency Lead Capture to Every Service Page (P1)**
 - Two-step inline form in each service page hero: Step 1 — "What type of damage?" + Phone Number. Step 2 — Name and optional Email.
