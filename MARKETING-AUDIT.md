@@ -6,17 +6,17 @@
 
 ---
 
-## Overall Marketing Score: 36 / 100
+## Overall Marketing Score: 38 / 100
 
 | Category | Weight | Score | Weighted |
 |---|---|---|---|
-| Content & Messaging | 25% | 35/100 | 8.75 |
+| Content & Messaging | 25% | 44/100 | 11.00 |
 | Conversion Optimization | 20% | 34/100 | 6.80 |
 | SEO & Discoverability | 20% | 41/100 | 8.20 |
 | Competitive Positioning | 15% | 34/100 | 5.10 |
 | Brand & Trust | 10% | 28/100 | 2.80 |
 | Growth & Strategy | 10% | 42/100 | 4.20 |
-| **COMPOSITE** | **100%** | — | **35.85** |
+| **COMPOSITE** | **100%** | — | **38.10** |
 
 ---
 
@@ -38,7 +38,7 @@ Implementing the prioritized recommendations below could double conversion rate 
 
 ## 1. Content & Messaging Audit
 
-**Score: 35 / 100**
+**Score: 44 / 100**
 
 ### Dimension Breakdown
 
