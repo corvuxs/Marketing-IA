@@ -6,17 +6,17 @@
 
 ---
 
-## Overall Marketing Score: 37 / 100
+## Overall Marketing Score: 36 / 100
 
 | Category | Weight | Score | Weighted |
 |---|---|---|---|
 | Content & Messaging | 25% | 35/100 | 8.75 |
 | Conversion Optimization | 20% | 34/100 | 6.80 |
-| SEO & Discoverability | 20% | 47/100 | 9.40 |
+| SEO & Discoverability | 20% | 41/100 | 8.20 |
 | Competitive Positioning | 15% | 34/100 | 5.10 |
 | Brand & Trust | 10% | 28/100 | 2.80 |
 | Growth & Strategy | 10% | 42/100 | 4.20 |
-| **COMPOSITE** | **100%** | — | **37.05** |
+| **COMPOSITE** | **100%** | — | **35.85** |
 
 ---
 
@@ -182,7 +182,7 @@ Implementing the prioritized recommendations below could double conversion rate 
 
 ## 3. Technical SEO & Site Architecture Audit
 
-**Score: 47 / 100**
+**Score: 41 / 100**
 
 ### Key Findings
 
